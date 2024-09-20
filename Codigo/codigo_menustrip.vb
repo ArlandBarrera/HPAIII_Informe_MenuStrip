@@ -11,7 +11,6 @@ Public Class Form1
     End Sub
 End Class
 
--> Form 2: <-
 
 Public Class Form2
     Private Sub BtnSalir_Click(sender As Object, e As EventArgs) Handles BtnSalir.Click
