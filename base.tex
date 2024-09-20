@@ -17,6 +17,31 @@
 \usepackage{amsmath}
 \usepackage{tcolorbox}
 \usepackage{tabularx}
+\usepackage{listings}
+
+\lstset
+{
+    breaklines=true,
+    tabsize=3,
+    showstringspaces=false
+}
+
+\lstdefinestyle{vbstyle}{
+  language={[Visual]Basic},
+  backgroundcolor=\color{lightgray}, % Color de fondo
+  basicstyle=\ttfamily\small, % Tamanoo y tipo de fuente
+  keywordstyle=\color{blue}, % Color para palabras clave
+  commentstyle=\color{green}, % Color para comentarios
+  stringstyle=\color{red}, % Ccadenas de texto
+  numberstyle=\tiny\color{gray}, % Coñor y tamaño de los números de línea
+  stepnumber=1,
+  numbers=left, % esto es para el # de la linea
+  numbersep=5pt,
+  showstringspaces=false,
+  frame=single,
+  breaklines=true
+}
+
 
 \renewcommand{\contentsname}{Contenido}
 \renewcommand{\figurename}{Figura}
@@ -59,6 +84,7 @@
 \subsection{Capturas de ejecución}
 \input{3.Desarrollo/3.2.Ejemplo/capturas/capturas.tex}
 \subsection{Código del programa}
+\input{Codigo/code.tex}
 \chapter{Conclusiones}
 \input{4.Conclusiones/conclusiones.tex}
 \chapter{Consideraciones Finales}
