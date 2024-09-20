@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726800862.3983 "c:/Users/elbin/Documents/Universidad/Semestre II/Herramientas de programación aplicada/Asignacion/Informe_MenuStrip/base.tex" "base.pdf" "base" 1726800864.0134 0
+["pdflatex"] 1726801573.25716 "c:/Users/elbin/Documents/Universidad/Semestre II/Herramientas de programación aplicada/Asignacion/Informe_MenuStrip/base.tex" "base.pdf" "base" 1726801574.94823 0
   "1.Portada/portada.tex" 1726800187 928 4c4dcae4aa0fc6e3bf2753789b6adc7d ""
   "2.Introduccion/intro.tex" 1726800187 544 453349b7ef100c1086e8da462209ff98 ""
   "3.Desarrollo/3.1.Manual/manual.tex" 1726800187 1047 82139df8adf5b0d4c35f882068ebd2e2 ""
@@ -171,7 +171,7 @@
   "C:/Users/elbin/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/elbin/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "Codigo/code.tex" 1726800860 59 f8da9b3ee6fc9fb1fd86398ce9bac31e ""
-  "Codigo/codigo_menustrip.vb" 1726800508 891 5929384e8c5e6d4888a46e219341b5e5 ""
+  "Codigo/codigo_menustrip.vb" 1726801572 859 bd2f323e0221260039dd6ef658fd5f9a ""
   "Imagenes/fisc.png" 1726800187 8337 6c3899861a2a551f9879979cbf49c3f9 ""
   "Imagenes/manual_1.png" 1726800187 35561 2b1fc95fe4ecb599f5ce7428fdb6f7e0 ""
   "Imagenes/manual_2.png" 1726800187 7877 63d1721dfb0eba005239ebd307edb032 ""
@@ -180,11 +180,11 @@
   "Imagenes/ui_1.png" 1726800187 14818 93f3d15d53710b0c462a88108c1165fb ""
   "Imagenes/ui_2.png" 1726800187 425045 ecd1ff89dea1ce45479df14196d3fdae ""
   "Imagenes/utp.png" 1726800187 105799 7b0e6b2f101038bc9c781b83b7d99321 ""
-  "base.aux" 1726800863 2333 4cb6f0154329d6e6f3ce46bb2d3b0090 "pdflatex"
-  "base.lof" 1726800863 627 1ff125ebe902ed3ace335c59b7d57c76 "pdflatex"
-  "base.out" 1726800863 1057 1b02ec91c66eb9014416decaa56a24a7 "pdflatex"
+  "base.aux" 1726801574 2333 4cb6f0154329d6e6f3ce46bb2d3b0090 "pdflatex"
+  "base.lof" 1726801574 627 1ff125ebe902ed3ace335c59b7d57c76 "pdflatex"
+  "base.out" 1726801574 1057 1b02ec91c66eb9014416decaa56a24a7 "pdflatex"
   "base.tex" 1726800668 2676 b9091fe1cf67d40b174c2d2fd5d2bc18 ""
-  "base.toc" 1726800863 613 49a4694d440c28dac53ff16feeae1531 "pdflatex"
+  "base.toc" 1726801574 613 49a4694d440c28dac53ff16feeae1531 "pdflatex"
   "c:/Users/elbin/Documents/Universidad/Semestre II/Herramientas de programación aplicada/Asignacion/Informe_MenuStrip/base.tex" 1726800668 2676 b9091fe1cf67d40b174c2d2fd5d2bc18 ""
   (generated)
   "base.aux"
